@@ -2,11 +2,11 @@
 ### KLE Technological University, Hubli-580031
 
 Every Programmer must know why he codes. He needs to know his design. Here is something to start with:
-[Design of a Programmer] (https://www.smashwords.com/books/view/639609)
+[Design of a Programmer](https://www.smashwords.com/books/view/639609)
 
 ### Course Notes:
 1. Chapter 01: Introduction to Data Strucutres and Recursion
-You can find the introduction notes [Here]() which talks ot C basics covering pointers and other programming constructs. The chpater also covers the basics of iteration, recursion and backtracking. To study about the strucutres in details, refer the ebook: [Structures and C] (https://www.smashwords.com/books/view/644937). An extended notes of more recursion and backtracking examples can be found at [to-be-updated]
+You can find the introduction notes [Here]() which talks ot C basics covering pointers and other programming constructs. The chpater also covers the basics of iteration, recursion and backtracking. To study about the strucutres in details, refer the ebook: [Structures and C](https://www.smashwords.com/books/view/644937). An extended notes of more recursion and backtracking examples can be found at [to-be-updated]
 
 2. Coming Soon
 
