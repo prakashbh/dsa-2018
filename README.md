@@ -1,8 +1,11 @@
 ## Data Structures and Algorithms [2018]
 ### KLE Technological University, Hubli-580031
+You will find all the course resources linked here. Bookmark this page and keep an eye!(Aug to Dec 2018)
 
 Every Programmer must know why he codes. He needs to know his design. Here is something to start with:
 [Design of a Programmer](https://www.smashwords.com/books/view/639609)
+
+I have been creating a library of important codes, that might come handy at need. You can find my library here at [Day-Today Codes](https://github.com/prakashbh/day-today-codes). If you create and have a library of your own, well, you should!
 
 ### Course Notes:
 **Chapter 01: Introduction to Data Strucutres and Recursion**
