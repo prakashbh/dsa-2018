@@ -12,9 +12,9 @@ I have been creating a library of important codes, that might come handy at need
 
 You can find the introduction notes [Here](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/1-intro-to-ds-recursion.pdf) which talks of C basics covering pointers and other programming constructs. The chapter also covers the basics of iteration, recursion and backtracking. To study about the strucutres in detail, refer the ebook: [Structures and C](https://www.smashwords.com/books/view/644937). An extended notes of more recursion and backtracking examples can be found at [to-be-updated]
 
-**Chapter 02: Coming Soon**
+**Chapter 02: Linked Lists, Stacks and Queues**
 
-Coming soon
+We basically study two class of problems and map them to data structures: stacks and queues. The theory along with the variants can be downloaded [Here](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/2-lists-stack-queue-theory.pdf). We then check out the implementations which can be found [to-be-updated](). We further go ahead and explore the applications and further types which can be found [to-be-updated](). The chapter also has an activity book. Get it [to-be-updated]().
 
 **Chapter 03: Hashing**
 
