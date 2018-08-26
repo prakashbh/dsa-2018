@@ -18,20 +18,20 @@ Coming soon
 
 **Chapter 03: Hashing**
 
-Hashing, being a blackbox now does magic being applicable in many computer science domains. Read the notes here from the ebook: [Hashing](https://www.smashwords.com/books/view/737188).
+Hashing is a blackbox. Hashing is also a magic box that is applicable in various computer science domains. Read the notes here from the ebook: [Hashing](https://www.smashwords.com/books/view/737188).
 
 
 ### Lab Resources:
 
 The lab resources can be downloaded from the list below: 
 
-1. [Lab 01 - Introduction to the C Basics]()
+1. [Lab 01 - Introduction to the C Basics](https://github.com/prakashbh/dsa-2018/tree/master/labs/lab01)
 
-2. [Lab 02 - Strengthening the C Basics]()
+2. [Lab 02 - Strengthening the C Basics](https://github.com/prakashbh/dsa-2018/tree/master/labs/lab02)
 
-3. [Lab 03 - HackerRank Programming Exercise]()
+3. [Lab 03 - HackerRank Programming Exercise](https://www.hackerrank.com/dsa-lab-03-2018-d-div)
 
-4. [Lab 04 - Structures and Problem Solving Skills]()
+4. [Lab 04 - Structures and Problem Solving Skills](https://github.com/prakashbh/dsa-2018/tree/master/labs/lab04)
 
 5. [Lab 05 - Implementing Stacks and Queues, Lists]()
 
