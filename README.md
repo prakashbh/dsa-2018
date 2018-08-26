@@ -33,9 +33,9 @@ The lab resources can be downloaded from the list below:
 
 4. [Lab 04 - Structures and Problem Solving Skills](https://github.com/prakashbh/dsa-2018/tree/master/labs/lab04)
 
-5. [Lab 05 - Implementing Stacks and Queues, Lists]()
+5. [Lab 05 - Implementing Stacks and Queues, Lists to-be-updated]()
 
-6. [Lab 06 - Stack and Queue Applications]()
+6. [Lab 06 - Stack and Queue Applications to-be-updated]()
 
 7. [Lab 07 - Inventory Data Structure](https://github.com/prakashbh/inventory-data-structure)
 
