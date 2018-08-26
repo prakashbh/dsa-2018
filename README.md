@@ -6,9 +6,15 @@ Every Programmer must know why he codes. He needs to know his design. Here is so
 
 ### Course Notes:
 1. Chapter 01: Introduction to Data Strucutres and Recursion
-You can find the introduction notes [Here]() which talks ot C basics covering pointers and other programming constructs. The chpater also covers the basics of iteration, recursion and backtracking. To study about the strucutres in details, refer the ebook: [Structures and C](https://www.smashwords.com/books/view/644937). An extended notes of more recursion and backtracking examples can be found at [to-be-updated]
+
+You can find the introduction notes [Here](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/1-intro-to-ds-recursion.pdf) which talks of C basics covering pointers and other programming constructs. The chapter also covers the basics of iteration, recursion and backtracking. To study about the strucutres in detail, refer the ebook: [Structures and C](https://www.smashwords.com/books/view/644937). An extended notes of more recursion and backtracking examples can be found at [to-be-updated]
 
 2. Coming Soon
+
+3. Chapter 03: Hashing
+
+Hashing, being a blackbox now does magic being applicable in many computer science domains. Read the notes here from the ebook: [Hashing](https://www.smashwords.com/books/view/737188).
+
 
 ### Lab Resources:
 
