@@ -39,6 +39,10 @@ The lab resources can be downloaded from the list below:
 
 7. [Lab 07 - Inventory Data Structure](https://github.com/prakashbh/inventory-data-structure)
 
+8. [Lab 08 - Return of Lord of the Rings](https://github.com/prakashbh/dsa-2018/tree/master/labs/lab08)
+
+9. [Lab 09 - Hired/Fired Challenge - Knit Arena](https://www.knitarena.com/activities)
+
 
 
 Note: You can also visit and clone or download the entire repository [HERE](https://github.com/prakashbh/dsa-2018)
