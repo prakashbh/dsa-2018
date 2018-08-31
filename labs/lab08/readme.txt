@@ -4,4 +4,4 @@ Submission process:
 Email the completed prolific-potion.c file to prakash.hegade@kletech.ac.in
 Subject: Lab 08 Code Submission
 
-Include your name and Roll number in your .c file
+Include your name, roll number and SRN in your .c file
