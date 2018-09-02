@@ -1,0 +1,40 @@
+COMMENTING GUIDELINES
+=======================
+
+
+ONE
+----
+Comment line must be above the code
+eg:
+// c holds the result of adding two numbers
+c = a + b
+
+Note:Do not comment at right side of the statement. 
+
+
+TWO
+-----
+Comment only on important parts of code
+eg: Do not comment like: End of main, End of while, Variable etc
+
+
+THREE
+------
+Functions should follow below commenting style:
+
+Function Name: add
+Input Param: two integer values
+Return Type: integer value
+Description: Adds two numbers and returns the resulting value
+int add(int a, int b)
+{
+    int result = 0;
+    result = a + b;
+    return result;
+}
+
+
+FOUR
+-----
+Use meaningful variable and function names to avoid the unnecessary commenting. 
+
