@@ -14,7 +14,7 @@ You can find the introduction notes [Here](https://github.com/prakashbh/dsa-2018
 
 **Chapter 02: Linked Lists, Stacks and Queues**
 
-We basically study two class of problems and map them to data structures: stacks and queues. The theory along with the variants can be downloaded [Here](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/2-lists-stack-queue-theory.pdf). We then check out the implementations which can be found [to-be-updated](). We further go ahead and explore the applications and further types which can be found [to-be-updated](). The chapter also has an activity book. Get it [to-be-updated]().
+We basically study two class of problems and map them to data structures: stacks and queues. The theory along with the variants can be downloaded [Here](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/2-lists-stack-queue-theory.pdf). We then check out the implementations which can be found [to-be-updated](). We further go ahead and explore the applications and further types which can be found [Here](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/2-stacks-queues-lists-continued.pdf). The chapter also has an activity book. Get it [to-be-updated]().
 
 **Chapter 03: Hashing**
 
