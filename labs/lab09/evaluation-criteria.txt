@@ -7,7 +7,7 @@ EVALUATION CRITERIA
 2. Correctness           20
 3. Execution             20
 4. WOW Factor            20
-5. Documents             10
-6. Commenting            10
+5. Documents             15
+6. Commenting            05
 -----------------------------
     Total               100
