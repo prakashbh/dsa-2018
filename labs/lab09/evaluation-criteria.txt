@@ -1,0 +1,13 @@
+EVALUATION CRITERIA
+====================
+
+    Parameter           Score
+------------------------------
+1. Logic/Design          20
+2. Correctness           20
+3. Execution             20
+4. WOW Factor            20
+5. Documents             10
+6. Commenting            10
+-----------------------------
+    Total               100
