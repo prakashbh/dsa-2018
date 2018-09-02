@@ -1,0 +1,35 @@
+SUBMISSION GUIDELINES
+======================
+
+1. What to Submit?
+---------------------
+a. Your ONE SINGLE code file named appropriately (.c)
+b. Readme (.txt)
+c. Release Notes (.txt)
+d. A short document that details design or approach you have followed (.ppt or .doc)
+e. Team details: Names, Roll No's, College Name, Email Ids (.txt)
+
+
+
+
+2. Where to Submit?
+----------------------
+Zip all above 5 documents and email them to:
+eff.knit@gmail.com
+
+Subject Line:
+-----------------
+Hired/Fired Challenge Submission
+
+Body:
+-----------------
+Dear Knit,
+Please find the submission atatched. 
+
+
+
+
+3. When to Submit?
+---------------------
+On or before 5.30pm, 04 Sept, 2018.
+
