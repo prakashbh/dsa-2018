@@ -10,7 +10,7 @@ I have been creating a library of important codes, that might come handy at need
 ### Course Notes:
 **Chapter 01: Introduction to Data Strucutres and Recursion**
 
-You can find the introduction notes [Here](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/1-intro-to-ds-recursion.pdf) which talks of C basics covering pointers and other programming constructs. The chapter also covers the basics of iteration, recursion and backtracking. To study about the strucutres in detail, refer the ebook: [Structures and C](https://www.smashwords.com/books/view/644937). An extended notes of more recursion and backtracking examples can be found at [to-be-updated]
+You can find the introduction notes [Here](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/1-intro-to-ds-recursion.pdf) which talks of C basics covering pointers and other programming constructs. The chapter also covers the basics of iteration, recursion and backtracking. To study about the strucutres in detail, refer the ebook: [Structures and C](https://www.smashwords.com/books/view/644937). An extended notes of more recursion examples can be found [HERE.](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/1-recursion-examples.pdf)
 
 **Chapter 02: Linked Lists, Stacks and Queues**
 
