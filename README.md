@@ -59,7 +59,7 @@ The lab resources can be downloaded from the list below:
 
 10. [Lab 10 - Binary Search Trees](https://github.com/prakashbh/dsa-2018/tree/master/labs/lab10)
 
-11. [Lab 11 - Algorithms and Effeciency Analysis]
+11. [Lab 11 - Algorithms and Efficiency Analysis]()
 
 
 
