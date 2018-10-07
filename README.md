@@ -21,7 +21,10 @@ We basically study two class of problems and map them to data structures: stacks
 Hashing is a blackbox. Hashing is also a magic box that is applicable in various computer science domains. Read the notes here from the ebook: [Hashing](https://www.smashwords.com/books/view/737188).
 
 
-Did you enjoy the 100 Questions Challenge? you can get the challenge questions here: [100 Questions Challenge](). The Mock Minor 1 question paper is here: [Mock Minor 01]().
+**Test Yourself**
+Did you enjoy the 100 Questions Challenge? you can get the challenge questions here: [100 Questions Challenge](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/100-questions-challenge-2018.pdf). The Mock Minor 1 question paper is here: [Mock Minor 01](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/mock-minor-01.pdf).
+
+Also note that the class had many short handout quzzies. Look out for them!
 
 
 **Chapter 04: Trees and Graphs**
@@ -30,7 +33,7 @@ to be updated soon.
 
 **Chapter 05: Fundamentals of ALgorithms and Sorting**
 
-This chapter does not have detailed notes. There is only some handouts.  
+This chapter does not have detailed notes. All sorting algorithms are out togther in this handout: [Sorting Algorithms](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/sorting-algorithms.pdf). 
 
 
 ### Lab Resources:
