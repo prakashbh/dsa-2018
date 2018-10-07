@@ -22,9 +22,8 @@ Hashing is a blackbox. Hashing is also a magic box that is applicable in various
 
 
 **Test Yourself**
-Did you enjoy the 100 Questions Challenge? you can get the challenge questions here: [100 Questions Challenge](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/100-questions-challenge-2018.pdf). The Mock Minor 1 question paper is here: [Mock Minor 01](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/mock-minor-01.pdf).
 
-Also note that the class had many short handout quzzies. Look out for them!
+Did you enjoy the 100 Questions Challenge? you can get the challenge questions here: [100 Questions Challenge](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/100-questions-challenge-2018.pdf). The Mock Minor 1 question paper is here: [Mock Minor 01](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/mock-minor-01.pdf). Also note that the class had many short handout quzzies. Look out for them!
 
 
 **Chapter 04: Trees and Graphs**
@@ -57,6 +56,11 @@ The lab resources can be downloaded from the list below:
 8. [Lab 08 - Return of Lord of the Rings](https://github.com/prakashbh/dsa-2018/tree/master/labs/lab08)
 
 9. [Lab 09 - Hired/Fired Challenge - Knit Arena](https://www.knitarena.com/activities)
+
+10. [Lab 10 - Binary Search Trees](https://github.com/prakashbh/dsa-2018/tree/master/labs/lab10)
+
+11. [Lab 11 - Algorithms and Effeciency Analysis]
+
 
 
 
