@@ -30,9 +30,9 @@ Did you enjoy the 100 Questions Challenge? you can get the challenge questions h
 
 to be updated soon. 
 
-**Chapter 05: Fundamentals of ALgorithms and Sorting**
+**Chapter 05: Fundamentals of Algorithms and Sorting**
 
-This chapter does not have detailed notes. All sorting algorithms are out togther in this handout: [Sorting Algorithms](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/sorting-algorithms.pdf). 
+This chapter does not have detailed notes. All sorting algorithms are put togther in this handout: [Sorting Algorithms](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/sorting-algorithms.pdf). 
 
 
 ### Lab Resources:
