@@ -5,7 +5,7 @@
 struct node
 {
     int id;
-	char data[20];
+    char data[20];
     struct node *next;
 };
 typedef struct node NODE;
