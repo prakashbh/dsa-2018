@@ -10,15 +10,27 @@ I have been creating a library of important codes, that might come handy at need
 ### Course Notes:
 **Chapter 01: Introduction to Data Strucutres and Recursion**
 
-You can find the introduction notes [Here](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/1-intro-to-ds-recursion.pdf) which talks of C basics covering pointers and other programming constructs. The chapter also covers the basics of iteration, recursion and backtracking. To study about the strucutres in detail, refer the ebook: [Structures and C](https://www.smashwords.com/books/view/644937). An extended notes of more recursion examples can be found [HERE.](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/1-recursion-examples.pdf)
+We start with [Introduction Notes](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/1-intro-to-ds-recursion.pdf) which talks of C basics covering pointers and other programming constructs. The chapter also covers the basics of iteration, recursion and backtracking. To study about the strucutres in detail, refer the ebook: [Structures and C](https://www.smashwords.com/books/view/644937). An extended notes of more recursion examples can be found here [Extended Notes  - Recursion.](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/1-recursion-examples.pdf)
 
 **Chapter 02: Linked Lists, Stacks and Queues**
 
-We basically study two class of problems and map them to data structures: stacks and queues. The theory along with the variants can be downloaded [Here](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/2-lists-stack-queue-theory.pdf). We then check out the implementations which can be found [Here](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/2-stacks-queues-lists-implementation.pdf). We further go ahead and explore the applications and further types which can be found [Here](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/2-stacks-queues-lists-continued.pdf). The chapter also has an activity book. You can get it here: [Activity Book](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/2-stacks-queues-lists-activity-book.pdf).
+We basically study two class of problems and map them to data structures: stacks and queues. The theory along with the variants can be downloaded here: [Theory](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/2-lists-stack-queue-theory.pdf). We then check out the implementations which can be found here: [Implementations](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/2-stacks-queues-lists-implementation.pdf). We further go ahead and explore the applications and further types which can be found here: [Applications](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/2-stacks-queues-lists-continued.pdf). The chapter also has an activity book. You can get it here: [Activity Book](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/2-stacks-queues-lists-activity-book.pdf).
 
 **Chapter 03: Hashing**
 
 Hashing is a blackbox. Hashing is also a magic box that is applicable in various computer science domains. Read the notes here from the ebook: [Hashing](https://www.smashwords.com/books/view/737188).
+
+
+Did you enjoy the 100 Questions Challenge? you can get the challenge questions here: [100 Questions Challenge](). The Mock Minor 1 question paper is here: [Mock Minor 01]().
+
+
+**Chapter 04: Trees and Graphs**
+
+to be updated soon. 
+
+**Chapter 05: Fundamentals of ALgorithms and Sorting**
+
+This chapter does not have detailed notes. There is only some handouts.  
 
 
 ### Lab Resources:
