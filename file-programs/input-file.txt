@@ -1,0 +1,1 @@
+All these file contents will be ccopied to output-file.txt character by character. 
