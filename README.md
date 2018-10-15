@@ -61,6 +61,8 @@ The lab resources can be downloaded from the list below:
 
 11. [Lab 11 - Algorithms and Efficiency Analysis]()
 
+12. [lab 12 - Search Engine Implementation](https://github.com/prakashbh/dsa-2018/tree/master/labs/lab12)
+
 
 
 
