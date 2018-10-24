@@ -28,11 +28,15 @@ Did you enjoy the 100 Questions Challenge? you can get the challenge questions h
 
 **Chapter 04: Trees and Graphs**
 
-to be updated soon. 
+Acyclic graphs are trees. They bring out some interesting features into data structures and algorithms. You can get the basic notes here: [Trees and Graphs - Basics](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/4-trees-and-graphs.pdf). Do look out class notes for more mathematics and examples.  
 
 **Chapter 05: Fundamentals of Algorithms and Sorting**
 
-This chapter does not have detailed notes. All sorting algorithms are put togther in this handout: [Sorting Algorithms](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/sorting-algorithms.pdf). 
+This chapter does not have detailed notes. All sorting algorithms are put together in this handout: [Sorting Algorithms](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/sorting-algorithms.pdf) which was as well shared in class. Do refer class notes for efficiency analysis and tracing of each of them. The efficiency analysis problems handout can be found here: [Efficiency Analysis Problems](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/5-efficiency-analysis-problems.pdf).
+
+**Chapter 06: Substring Search and Graph Algorithms**
+
+To Be Updated.
 
 
 ### Lab Resources:
