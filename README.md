@@ -51,7 +51,7 @@ It is essential to understand file structures well. Find the notes here: [File S
 
 **Chapter 08: Storage Management**
 
-In the last chapter we study Storage Management. 
+In the last chapter we study [Storage Management](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/8-storage-management.pdf). 
 
 
 ### Lab Resources:
