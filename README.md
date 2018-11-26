@@ -10,7 +10,7 @@ I have been creating a library of important codes, that might come handy at need
 ### Course Notes:
 **Chapter 01: Introduction to Data Strucutres and Recursion**
 
-We start with [Introduction Notes](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/1-intro-to-ds-recursion.pdf) which talks of C basics covering pointers and other programming constructs. The chapter also covers the basics of iteration, recursion and backtracking. To study about the strucutres in detail, refer the ebook: [Structures and C](https://www.smashwords.com/books/view/644937). An extended notes of more recursion examples can be found here [Extended Notes  - Recursion.](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/1-recursion-examples.pdf)
+We start with [Introduction Notes](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/1-intro-to-ds-recursion.pdf) which talks of C basics covering pointers and other programming constructs. The chapter also covers the basics of iteration, recursion and backtracking. To study about the structures in detail, refer the ebook: [Structures and C](https://www.smashwords.com/books/view/644937). An extended notes of more recursion examples can be found here [Extended Notes  - Recursion.](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/1-recursion-examples.pdf)
 
 **Chapter 02: Linked Lists, Stacks and Queues**
 
@@ -41,7 +41,17 @@ We study major substring search and graph algorithms. The substring search algor
 
 **Test Yourself**
 
-Did you enjoy the 100 Questions Challenge Returns? you can get the challenge questions here: [100 Questions Challenge Returns](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/100-question-challenge-returns-2018.pdf). Two Mock Minors as a practice test for were provided: [Practice Minor 01](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/mock-minor-02.pdf) and [Practice Minor 02](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/minor2-just-like-that.pdf). Look out for other handouts provided in class. 
+Did you enjoy the 100 Questions Challenge Returns? you can get the challenge questions here: [100 Questions Challenge Returns](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/100-question-challenge-returns-2018.pdf). Two Mock Minors as a practice test were provided: [Practice Minor 01](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/mock-minor-02.pdf) and [Practice Minor 02](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/minor2-just-like-that.pdf). Look out for other handouts provided in class. 
+
+
+**Chapter 07: File Strucutres**
+
+It is essential to understand file structures well. Find the notes here: [File Structures](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/7-file-structures.pdf).
+
+
+**Chapter 08: Storage Management**
+
+In the last chapter we study Storage Management. 
 
 
 ### Lab Resources:
