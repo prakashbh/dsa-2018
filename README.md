@@ -36,7 +36,12 @@ This chapter does not have detailed notes. All sorting algorithms are put togeth
 
 **Chapter 06: Substring Search and Graph Algorithms**
 
-To Be Updated.
+We study major substring search and graph algorithms. The substring search algorithm notes can be read here: [Sub String Search](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/6-sub-string-search-algorithms.pdf). The detailed notes of all graph algorithm tracing is here: [Graph Algorithms](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/6-graph-algorithms.pdf). Kindly note that the notes is hand writtten scanned one. We put together all the algorithms (Just algorithms) here: [All Graph Algorithms](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/6-all-graph-algorithms.pdf). We then summarize all the studied algorithm design techniques - [Design Techniques](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/6-algorithm-design-techniques.pdf).
+
+
+**Test Yourself**
+
+Did you enjoy the 100 Questions Challenge Returns? you can get the challenge questions here: [100 Questions Challenge Returns](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/100-question-challenge-returns-2018.pdf). Two Mock Minors as a practice test for were provided: [Practice Minor 01](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/mock-minor-02.pdf) and [Practice Minor 02](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/minor2-just-like-that.pdf). Look out for other handouts provided in class. 
 
 
 ### Lab Resources:
@@ -67,6 +72,9 @@ The lab resources can be downloaded from the list below:
 
 12. [Lab 12 - Search Engine Implementation](https://github.com/prakashbh/dsa-2018/tree/master/labs/lab12)
 
+13. [Lab 13 - Graph Traversals - DFS and BFS]()
+
+14. [Lab 14 - Graph Algorithms]()
 
 
 
