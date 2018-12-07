@@ -54,6 +54,10 @@ It is essential to understand file structures well. Find the notes here: [File S
 In the last chapter we study [Storage Management](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/8-storage-management.pdf). 
 
 
+**Others**
+Adding another final pdf containing some additional notes. Find it [HERE](https://github.com/prakashbh/dsa-2018/blob/master/course-notes/other-important-notes.pdf).
+
+
 ### Lab Resources:
 
 The lab resources can be downloaded from the list below: 
